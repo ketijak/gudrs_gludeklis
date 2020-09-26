@@ -1,1 +1,2 @@
-# gudrs_gludeklis
+# gudrs_gludeklis kopējā projekta repozitorija
+
